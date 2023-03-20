@@ -8,10 +8,7 @@
 }
 
 
-.album-para{
-    /* display: flex;
-    align-items: center; */
-}
+
 
 .album-para p{
     display: inline-block;
@@ -38,7 +35,6 @@
   
   .play-button {
     top: -40%;
-    /* left: -55%;  */
     position: relative;  
     width: 0;
     height: 0;
